@@ -1,4 +1,9 @@
 header{
-    background-color: rgb(251, 61, 95);
+    background-image:linear-gradient();
     color: white;
 }
+p{font-size: 24px;font-family: 'Lobster', cursive;}
+ul{font-size: 24px;font-family: 'Lobster', cursive;}
+li{font-size: 24px;font-family: 'Lobster', cursive;}
+h1{font-size: 36px;font-family: 'Lobster', cursive;}
+section{background-image: url(sawrio_characters.webp);background-repeat:repeat-y;background-size: 40%;background-position: center;}
