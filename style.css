@@ -1,9 +1,11 @@
 header{
-    background-image:linear-gradient();
-    color: white;
+    background-image:linear-gradient(rgb(178, 30, 55), rgb(230, 99, 121),pink, white);
+    color: black;
 }
 p{font-size: 24px;font-family: 'Lobster', cursive;}
 ul{font-size: 24px;font-family: 'Lobster', cursive;}
 li{font-size: 24px;font-family: 'Lobster', cursive;}
 h1{font-size: 36px;font-family: 'Lobster', cursive;}
-section{background-image: url(sawrio_characters.webp);background-repeat:repeat-y;background-size: 40%;background-position: center;}
+.a1{padding: 0.5em; color: black;background-color: blueviolet;display: inline-block;}
+.a-imagem{width: 12%;}
+section{background-image: url(./289e1b763314ce624793e0ed711933ff.jpg);background-repeat:repeat-y;background-size:cover;background-position: center;}
